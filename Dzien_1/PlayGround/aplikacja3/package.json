@@ -1,0 +1,14 @@
+{
+  "name": "aplikacja3",
+  "version": "1.0.0",
+  "description": "Mój pierwszy program w node.js",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  }
+}
